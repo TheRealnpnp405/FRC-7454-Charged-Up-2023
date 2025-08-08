@@ -25,7 +25,6 @@ Thank you FIRST.
 
 # ADDITIONAL INFO
 
-2023 Charged up
 7454 code for 2023 Charged Up.  Swerve flavor
 
 ## Hardware Assumptions
